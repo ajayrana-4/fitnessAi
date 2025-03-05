@@ -1,0 +1,3 @@
+[submodule "GymAI"]
+	path = GymAI
+	url = https://github.com/ajayrana-4/fitnessAi
